@@ -1,0 +1,7 @@
+.section-description__logo-box{
+  display: grid;
+  gap: 76px;
+  grid-template-columns: repeat(3, max-content);
+  justify-content: center;
+  margin: 0 0 20px 0;
+}

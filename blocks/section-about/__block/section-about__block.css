@@ -1,0 +1,10 @@
+.section-about__block{
+  width: 420px;
+  height: 190px;
+  background: linear-gradient(180deg, rgba(234,213,178, 0.8) 0%, rgba(234,156,65, 0.8)100%);
+  position: absolute;
+  top: 54%;
+  left: 50%;
+  padding-top: 15px;
+  border-radius: 10px;
+}
